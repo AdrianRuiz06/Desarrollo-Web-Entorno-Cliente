@@ -18,9 +18,14 @@ Este espacio está destinado a almacenar, documentar y gestionar las prácticas,
 
 ```text
 .
-└── basic_html_javascript_sample/
-    ├── holamundo.html                  # Ejemplo inicial de código JavaScript embebido
-    ├── Referencia_Script/
-    │   ├── hola_mundo.html             # Estructura HTML vinculando script externo
-    │   └── script.js                   # Lógica e interacción en JavaScript
-    └── README.md
+├── EjerciciosBasicos/
+│   └── Ejercicio 01/
+│       └── tipoUsuario.js              # Ejercicio práctico sobre tipos de usuario y lógica básica
+├── basic_html_javascript_sample/
+│   ├── Codigo_Embebido/
+│   │   └── holamundo.html              # Ejemplo inicial de código JavaScript embebido en HTML
+│   └── Referencia_Script/
+│       ├── hola_mundo.html             # Estructura HTML vinculando script externo
+│       └── script.js                   # Lógica e interacción en JavaScript
+└── README.md
+```
